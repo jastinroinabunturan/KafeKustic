@@ -29,7 +29,7 @@ nav{
   height: auto;
   display: block;
   display:flex;
-
+  justify-content: space-between;
   align-items:center;
   padding:8px 32px;
   background:rgba(255, 255, 255, 0.153);
@@ -625,3 +625,4 @@ footer{
   margin-top: 8px;
   line-height: 1.6;
 }
+
